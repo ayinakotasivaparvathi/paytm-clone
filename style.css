@@ -88,7 +88,7 @@
 	font-size: 30px;
 	color: white;
 	font-style: poppins;
-	padding: 3% 8%;
+	padding: 3% 6%;
 
 }
 .child2{
@@ -108,7 +108,7 @@
 	background-color: rgba(239, 239, 239, 0.6);
 	font-size: 30px;
 	margin-left: 5px;	
-	padding: 10%;
+	padding: 3% 6%;
 }
 
 .sec5div1{
@@ -189,3 +189,11 @@
 .Learn:hover{
 	background-color: deepskyblue;
 }
+
+
+@media (max-width: 1366px){
+	.navigation a{
+		font-size: 14px;
+	}
+}
+
