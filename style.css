@@ -179,7 +179,7 @@
 	margin-left: 4%;
 }
 .Learn{
-	background-color: blue;
+	background-color: #0f4a8a;
 	border-radius:25px;
 	font-size: 20px;
 	color: white;
@@ -189,11 +189,97 @@
 .Learn:hover{
 	background-color: deepskyblue;
 }
+.sec12{
+	background-color: white;
+	font-size: 30px;
+	padding: 14%;
+	margin-top: 5%;
+	margin-left: 5%;
+	
+}
+.sec12div{
+	display: flex;
+	justify-content: space-between;
+	padding-top: 7%;
+	margin: 5% 5% 2% 2%;
+}
+.anyone{
+	font-size: 45px;
+	margin-top: 6%;
+	font-family: 'poppins',sans-serif;
+	margin-left: 4%;
+}
+.make{
+	font-size: 20px;
+	font-style: normal;
+	margin-bottom: 7%;
+	margin-left: 4%;
+}
 
 
-@media (max-width: 1366px){
+
+
+@media (max-width: 390px){
 	.navigation a{
-		font-size: 14px;
+		font-size: 4px;
+	}
+	.msg{
+		font-size: 10px;
+	}
+	.India{
+		font-size: 10px;
+	}
+	.recharge{
+		font-size: 10px;
+	}
+	.sec3{
+		font-size: 10px;
+		flex-direction: column;
+		align-items: center;
+		
+	}
+	.child1 a{
+		font-size: 10px;
+		
+
+	}
+	.sec4{
+		font-size: 10px;
+
+		
+	}
+	.child2 a{
+		font-size: 10px;
+	}
+	.sec5{
+		font-size: 10px;
+	}
+	.child3{
+		font-size: 10px;
+	}
+	.online{
+		font-size: 10px;
+	}
+	.load{
+		font-size: 10px;
+	}
+	.anyone{
+		font-size: 10px;
+	}
+	.make{
+		font-size: 10px;
+	}
+	.want{
+		font-size: 10px;
+	}
+	.with{
+		font-size: 10px;
+	}
+	.Learn{
+		font-size: 10px;
+	}
+	.icon{
+		font-size: 10px;
 	}
 }
 
